@@ -1,5 +1,5 @@
 #include "main.h"
-
+k
 /**
  * main - check the code.
  *
@@ -8,6 +8,7 @@
 int main(void)
 {
 	int r;
+
 	r = _islower('H');
 	_putchar(r + '0');
 	r = _islower('o');
