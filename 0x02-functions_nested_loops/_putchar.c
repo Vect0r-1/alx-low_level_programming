@@ -2,8 +2,8 @@
 #include <unistd.h>
 
 /**
- * _putchar directs the charactr c to stout
- * c is the character to print
+ * _putchar - directs the charactr c to stout
+ * @c: the character to print
  *
  * Return: 1 (On success)
  * On error: -1, and errno is set.
