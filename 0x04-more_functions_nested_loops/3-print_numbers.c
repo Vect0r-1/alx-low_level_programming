@@ -7,9 +7,10 @@
  */
 void print_numbers(void)
 {
-	int c = 0;
+	int c;
 
-	while (c >= 0 && c <= 9)
+	c = 0;
+	while (c >= '0' && c <= '9')
 	{
 		_putchar('c');
 		c++
